@@ -1,3 +1,5 @@
+
+# ![0_2HNDBLvROFP6QHC1](https://github.com/Davidlarson1/Bike_Sharing_Dataset_ML/assets/104188842/070ded06-bb34-44e4-82d2-f837f92f25aa)
 # Bike_Sharing_Dataset_ML
 
 This dataset contains the  daily count of rental bikes between the years 2011 and 2012 in the Capital bike share system with the corresponding weather and seasonal information.
